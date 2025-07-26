@@ -12,6 +12,8 @@ struct ContentView: View {
                       punchline: "Sunday School"),
                  Joke(setup: "Did you hear about the cheese factory that exploded in France?",
                       punchline: "There was nothing left but de Brie"),
+                 Joke(setup: "Why did the chicken cross the road?",
+                      punchline: "To get to the other side of the array"),
                  Joke(setup: "Dad, can you put my shoes on?",
                       punchline: "I dont think they'll fit me")]
     
